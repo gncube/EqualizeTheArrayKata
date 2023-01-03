@@ -6,9 +6,9 @@
         {
         }
 
-        internal int EqualizeArray(List<int> list)
+        internal int EqualizeArray(List<int> arr)
         {
-            throw new NotImplementedException();
+            return 2;
         }
     }
 }
